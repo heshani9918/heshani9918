@@ -68,12 +68,21 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 
 ## 📈 GitHub Stats
 
-![Heshani's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshani9918&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heshani9918&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heshani9918&show_icons=true&theme=radical" alt="Heshani's GitHub stats" />
+</p>
 
-![Heshani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshani9918&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshani9918&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![Heshani's Activity Graph](https://activity-graph.herokuapp.com/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshani9918&theme=radical" alt="Heshani's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true" alt="Heshani's Activity Graph" />
+</p>
 
 ---
 
