@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heshani_Sandanika-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/heshani-sandanika-58597a207)
 - [![Instagram](https://img.shields.io/badge/Instagram-_.heshizin._-pink?style=flat&logo=instagram)](https://www.instagram.com/_.heshizin._/?hl=en)
 - [![Facebook](https://img.shields.io/badge/Facebook-Heshani_Sandanika-blue?style=flat&logo=facebook)](https://web.facebook.com/profile.php?id=100013881888584)
-- Phone: +94 77 213 7060
 
 ## 💡 Skills and Tools
 
@@ -69,11 +68,11 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/api?username=heshani9918&show_icons=true&theme=radical" alt="Heshani's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshani9918&show_icons=true&theme=radical" alt="Heshani's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=heshani9918&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshani9918&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -81,7 +80,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true&area_color=FF0000&line=FFFFFF&radius=16&custom_title=Monthly%20Contribution%20Graph&area_color=00ff00&line=ff0000&color=79ff97&bg_color=00000000" alt="Heshani's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true" alt="Heshani's Activity Graph" />
 </p>
 
 ---
