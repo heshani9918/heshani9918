@@ -26,17 +26,26 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 ## 📫 How to Reach Me
 
 - Email: [heshani4n@gmail.com](mailto:heshani4n@gmail.com)
-- LinkedIn: [Heshani Sandanika](https://www.linkedin.com/in/heshani-sandanika-58597a207)
-- Instagram: [@_.heshizin._](https://www.instagram.com/_.heshizin._/?hl=en)
-- Facebook: [Heshani Sandanika](https://web.facebook.com/profile.php?id=100013881888584)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heshani_Sandanika-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/heshani-sandanika-58597a207)
+- [![Instagram](https://img.shields.io/badge/Instagram-_.heshizin._-pink?style=flat&logo=instagram)](https://www.instagram.com/_.heshizin._/?hl=en)
+- [![Facebook](https://img.shields.io/badge/Facebook-Heshani_Sandanika-blue?style=flat&logo=facebook)](https://web.facebook.com/profile.php?id=100013881888584)
 - Phone: +94 77 213 7060
 
 ## 💡 Skills and Tools
 
-- **Programming Languages**: C, C++, Java, JavaScript, PHP, HTML, CSS, SQL
-- **Frameworks and Libraries**: React JS, Node JS, Express JS, React Native
-- **Databases**: MongoDB, Firebase, SQLite
-- **Tools and IDEs**: VS Code, Visual Studio, Eclipse, Postman, GitHub, Android Studio
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Goals
 
@@ -53,14 +62,18 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 ## 🌐 Find Me Online
 
 - [GitHub](https://github.com/heshani9918)
-- [LinkedIn](https://www.linkedin.com/in/heshani-sandanika-58597a207)
-- [Instagram](https://www.instagram.com/_.heshizin._/?hl=en)
-- [Facebook](https://web.facebook.com/profile.php?id=100013881888584)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heshani_Sandanika-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/heshani-sandanika-58597a207)
+- [![Instagram](https://img.shields.io/badge/Instagram-_.heshizin._-pink?style=flat&logo=instagram)](https://www.instagram.com/_.heshizin._/?hl=en)
+- [![Facebook](https://img.shields.io/badge/Facebook-Heshani_Sandanika-blue?style=flat&logo=facebook)](https://web.facebook.com/profile.php?id=100013881888584)
 
 ## 📈 GitHub Stats
 
 ![Heshani's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshani9918&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heshani9918&layout=compact&theme=radical)
+
+![Heshani's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshani9918&theme=radical)
+
+![Heshani's Activity Graph](https://activity-graph.herokuapp.com/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true)
 
 ---
 
