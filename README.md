@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heshani_Sandanika-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/heshani-sandanika-58597a207)
 - [![Instagram](https://img.shields.io/badge/Instagram-_.heshizin._-pink?style=flat&logo=instagram)](https://www.instagram.com/_.heshizin._/?hl=en)
 - [![Facebook](https://img.shields.io/badge/Facebook-Heshani_Sandanika-blue?style=flat&logo=facebook)](https://web.facebook.com/profile.php?id=100013881888584)
-
+- Phone: +94 77 213 7060
 
 ## 💡 Skills and Tools
 
@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true" alt="Heshani's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true&area_color=FF0000&line=FFFFFF&radius=16&custom_title=Monthly%20Contribution%20Graph" alt="Heshani's Activity Graph" />
 </p>
 
 ---
