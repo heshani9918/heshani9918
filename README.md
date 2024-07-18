@@ -71,10 +71,9 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
   <img src="https://github-readme-stats.vercel.app/api?username=heshani9918&show_icons=true&theme=radical" alt="Heshani's GitHub stats" />
 </p>
 
-<a href="https://github.com/heshani9918" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshani9918&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshani9918&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshani9918&theme=radical" alt="Heshani's GitHub Streak" />
