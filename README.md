@@ -82,6 +82,9 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true" alt="Heshani's Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true" alt="Heshani's Activity Graph" />
+</p>
 
 
 ---
