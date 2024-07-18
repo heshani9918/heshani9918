@@ -79,14 +79,6 @@ Welcome to my GitHub profile! I'm an enthusiastic and motivated software enginee
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshani9918&theme=radical" alt="Heshani's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true" alt="Heshani's Activity Graph" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshani9918&theme=react-dark&hide_border=true&area=true" alt="Heshani's Activity Graph" />
-</p>
-
-
 ---
 
 *“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”* - Albert Schweitzer
